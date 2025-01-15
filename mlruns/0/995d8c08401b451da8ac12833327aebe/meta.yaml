@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Documents/Gemstone-Price-Prediction-End-to-End-Pipeline/mlruns/0/995d8c08401b451da8ac12833327aebe/artifacts
+end_time: 1736849442314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 995d8c08401b451da8ac12833327aebe
+run_name: mercurial-koi-217
+run_uuid: 995d8c08401b451da8ac12833327aebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736849434714
+status: 4
+tags: []
+user_id: USER
